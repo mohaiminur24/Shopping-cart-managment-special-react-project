@@ -1,0 +1,90 @@
+{
+    "store_name": "Example Store",
+    "monthly_data": [
+      {
+        "month": "January",
+        "total_order": 100,
+        "positive_review": 400,
+        "negative_review": 50,
+        "average_order_percentage": 80
+      },
+      {
+        "month": "February",
+        "total_order": 350,
+        "positive_review": 450,
+        "negative_review": 30,
+        "average_order_percentage": 75
+      },
+      {
+        "month": "March",
+        "total_order": 200,
+        "positive_review": 500,
+        "negative_review": 40,
+        "average_order_percentage": 85
+      },
+      {
+        "month": "April",
+        "total_order": 650,
+        "positive_review": 250,
+        "negative_review": 20,
+        "average_order_percentage": 90
+      },
+      {
+        "month": "May",
+        "total_order": 500,
+        "positive_review": 600,
+        "negative_review": 30,
+        "average_order_percentage": 80
+      },
+      {
+        "month": "June",
+        "total_order": 450,
+        "positive_review": 650,
+        "negative_review": 25,
+        "average_order_percentage": 85
+      },
+      {
+        "month": "July",
+        "total_order": 700,
+        "positive_review": 700,
+        "negative_review": 40,
+        "average_order_percentage": 80
+      },
+      {
+        "month": "August",
+        "total_order": 550,
+        "positive_review": 800,
+        "negative_review": 30,
+        "average_order_percentage": 90
+      },
+      {
+        "month": "September",
+        "total_order": 200,
+        "positive_review": 750,
+        "negative_review": 20,
+        "average_order_percentage": 95
+      },
+      {
+        "month": "October",
+        "total_order": 750,
+        "positive_review": 850,
+        "negative_review": 10,
+        "average_order_percentage": 85
+      },
+      {
+        "month": "November",
+        "total_order": 1000,
+        "positive_review": 900,
+        "negative_review": 25,
+        "average_order_percentage": 90
+      },
+      {
+        "month": "December",
+        "total_order": 850,
+        "positive_review": 850,
+        "negative_review": 30,
+        "average_order_percentage": 85
+      }
+    ]
+  }
+  

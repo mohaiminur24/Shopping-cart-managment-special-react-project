@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id":1,
+      "name": "DSLR cameras, or digital single-lens reflex cameras",
+      "price": 9.99,
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.5,
+      "stock": true,
+      "color": "blue",
+      "date": "2022-02-01"
+    },
+    {
+      "id":2,
+      "name": "iPhone: The Iconic Smartphone with Advanced Features and Intuitive Design",
+      "price": 14.99,
+      "image": "https://images.pexels.com/photos/341523/pexels-photo-341523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 3.8,
+      "stock": false,
+      "color": "red",
+      "date": "2022-01-15"
+    },
+    {
+      "id":3,
+      "name": "A Convenient and Reliable Lighting Solution for Your Outdoor Spaces",
+      "price": 7.99,
+      "image": "https://images.pexels.com/photos/335257/pexels-photo-335257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.1,
+      "stock": true,
+      "color": "green",
+      "date": "2022-03-05"
+    },
+    {
+      "id":4,
+      "name": "Eua Robe, the Ultimate in Comfort and Style",
+      "price": 24.99,
+      "image": "https://images.pexels.com/photos/1667088/pexels-photo-1667088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.9,
+      "stock": true,
+      "color": "black",
+      "date": "2022-02-18"
+    },
+    {
+      "id":5,
+      "name": "Indulge in Sweet Delight: The Irresistible Flavors and Beautiful Designs of Our Cakes",
+      "price": 11.99,
+      "image": "https://images.pexels.com/photos/380954/pexels-photo-380954.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 3.2,
+      "stock": false,
+      "color": "purple",
+      "date": "2022-03-01"
+    },
+    {
+      "id":6,
+      "name": "Unleash Your Beauty with Bold Colors and Luxurious Finishes: Discover Our Range of Lipsticks",
+      "price": 19.99,
+      "image": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.6,
+      "stock": true,
+      "color": "silver",
+      "date": "2022-02-28"
+    },
+    {
+      "id":7,
+      "name": "Capture Every Detail with Precision and Clarity: Explore Our High-Quality Camera Lenses",
+      "price": 8.99,
+      "image": "https://images.pexels.com/photos/279906/pexels-photo-279906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 2.9,
+      "stock": true,
+      "color": "white",
+      "date": "2022-03-11"
+    },
+    {
+      "id":8,
+      "name": "Power and Portability in One: Discover Our Range of High-Performance Laptops",
+      "price": 16.99,
+      "image": "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.3,
+      "stock": false,
+      "color": "pink",
+      "date": "2022-01-22"
+    },
+    {
+      "id":9,
+      "name": "Unleash Your Scent-uality: Discover the Alluring Fragrances of Our Perfumes",
+      "price": 13.99,
+      "image": "https://images.pexels.com/photos/258244/pexels-photo-258244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 3.7,
+      "stock": true,
+      "color": "brown",
+      "date": "2022-03-15"
+    },
+    {
+      "id":10,
+      "name": "Pure and Nutritious Goodness: Taste the Freshness of Our Farm-Fresh Milk",
+      "price": 29.99,
+      "image": "https://images.pexels.com/photos/236010/pexels-photo-236010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.8,
+      "stock": true,
+      "color": "gold",
+      "date": "2022-02-20"
+    },
+    {
+      "id":11,
+      "name": "Capture Every Detail with Precision and Clarity: Explore Our High-Quality Camera Lenses",
+      "price": 8.99,
+      "image": "https://images.pexels.com/photos/279906/pexels-photo-279906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 2.9,
+      "stock": true,
+      "color": "white",
+      "date": "2022-03-11"
+    }
+  ]
+}
